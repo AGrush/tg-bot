@@ -1,6 +1,6 @@
 # tg-archive
 
-This program saves Telegram groups into folders on your computer. Each group gets its own folder. People who download this project from GitHub get the program only. They do not get your groups, your bot token, or your login.
+This program saves Telegram groups into folders on your computer. Each group gets its own folder.
 
 There are two jobs:
 
